@@ -1,7 +1,7 @@
 # Introduction to Opensource Software
 
 ## Index
-|Classification | Repository Shortcuts | 
+|Classification | Shortcuts | 
 |---|---|
 |GitHub|   |
 |Android|   |

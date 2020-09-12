@@ -1,5 +1,6 @@
 # Introduction to Opensource Software
-Junior course on 2nd Semester, 2020, Sejong University
+This repository is for **Introduction to Opensource Software** lecture related material and assignments
+I've not uploaded lecture materials due to copyright issues.
 
 ## Index
 |Classification | Shortcuts | 

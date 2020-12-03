@@ -1,0 +1,1 @@
+ALTER TABLE score ADD (email VARCHAR(255) NULL);

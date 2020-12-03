@@ -1,0 +1,1 @@
+DELETE FROM test.score WHERE name LIKE "현준"

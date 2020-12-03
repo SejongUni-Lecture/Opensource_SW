@@ -1,0 +1,1 @@
+UPDATE test.score SET math=100 WHERE name LIKE "현준"

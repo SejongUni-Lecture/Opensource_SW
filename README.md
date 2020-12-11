@@ -3,5 +3,4 @@ This repository is for **Introduction to Opensource Software** lecture related m
 I've not uploaded lecture materials due to copyright issues.  
   
 ## Summary
-A sneak peek of opensources(GitHub, Android, Python, OpenCV, MySQL, R, Nodejs and Tensorflow)
-
+Sneak peek of opensources

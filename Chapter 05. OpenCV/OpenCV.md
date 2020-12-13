@@ -6,7 +6,7 @@
 
 [OpenCV Releases]: opencv.org
 
-1. Download libraries via ``VERSION 2.4.11`` ▶`` OpenCV for Windows``
+1. Download libraries via ``VERSION 2.4.11`` >`` OpenCV for Windows``
 
 2. Unzip downloaded files
 
@@ -14,7 +14,7 @@
 
 4. Whenever generating a new project file, make sure to add the libraries listed down below.
 
-   You can simply copy and paste these through ``Project attributes`` ▶ ``Linker`` ▶``Additional Dependencies``
+   You can simply copy and paste these through ``Project attributes`` > ``Linker`` >``Additional Dependencies``
 
 ```
 opencv_calib3d2411d.lib
@@ -37,6 +37,6 @@ opencv_video2411d.lib
 opencv_videostab2411d.lib
 ```
 
-5. Add  ``C:\< downloaded path>\opencv\build\include`` in ``Project attributes`` ▶ ``C/C++``   ▶ ``Additional Include Directory``
-6. Add ``C:\< downloaded path>\opencv\build\x86\vc15\lib`` in ``Project attributes`` ▶ ``General``   ▶ ``Additional Library Directory``
+5. Add  ``C:\< downloaded path>\opencv\build\include`` in ``Project attributes`` > ``C/C++``   > ``Additional Include Directory``
+6. Add ``C:\< downloaded path>\opencv\build\x86\vc15\lib`` in ``Project attributes`` > ``General``   > ``Additional Library Directory``
 

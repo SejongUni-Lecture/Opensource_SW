@@ -3,4 +3,4 @@ This repository is for **Introduction to Opensource Software** lecture related m
 I've not uploaded lecture materials due to copyright issues.
   
 ## Summary
-Sneak peek of opensources
+Sneak peeking opensources
